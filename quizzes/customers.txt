@@ -1,0 +1,2 @@
+sinedon,$2a$10$gxrMFjuQywbqMqhAtkuwMOWNHTRn6Uknig1/XyJIECijFHs8d6uUG,sinedon
+john,$2a$10$tqxSmIxCyfSj4RwU8pvI1O.if8NOhnwbeA9DANONxVz7SHJJkP6Jq,john

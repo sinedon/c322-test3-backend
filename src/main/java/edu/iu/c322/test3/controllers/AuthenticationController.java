@@ -13,7 +13,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
 
+
 @RestController
+@CrossOrigin
 public class AuthenticationController {
     private final AuthenticationManager authenticationManager;
     private final IAuthenticationService authenticationService;
